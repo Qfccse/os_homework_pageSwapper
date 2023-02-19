@@ -1,0 +1,10 @@
+C:\Users\ASUS\Desktop\各科\操作系统\项目2\提交\项目源码\PageSwapper\bin\Debug\PageSwapper.exe.config
+C:\Users\ASUS\Desktop\各科\操作系统\项目2\提交\项目源码\PageSwapper\bin\Debug\PageSwapper.exe
+C:\Users\ASUS\Desktop\各科\操作系统\项目2\提交\项目源码\PageSwapper\bin\Debug\PageSwapper.pdb
+C:\Users\ASUS\Desktop\各科\操作系统\项目2\提交\项目源码\PageSwapper\obj\Debug\PageSwapper.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\各科\操作系统\项目2\提交\项目源码\PageSwapper\obj\Debug\PageSwapper.Form1.resources
+C:\Users\ASUS\Desktop\各科\操作系统\项目2\提交\项目源码\PageSwapper\obj\Debug\PageSwapper.Properties.Resources.resources
+C:\Users\ASUS\Desktop\各科\操作系统\项目2\提交\项目源码\PageSwapper\obj\Debug\PageSwapper.csproj.GenerateResource.cache
+C:\Users\ASUS\Desktop\各科\操作系统\项目2\提交\项目源码\PageSwapper\obj\Debug\PageSwapper.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\各科\操作系统\项目2\提交\项目源码\PageSwapper\obj\Debug\PageSwapper.exe
+C:\Users\ASUS\Desktop\各科\操作系统\项目2\提交\项目源码\PageSwapper\obj\Debug\PageSwapper.pdb
